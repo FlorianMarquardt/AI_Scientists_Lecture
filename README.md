@@ -8,3 +8,8 @@ The lectures mainly discuss a mix of very recent, state-of-the-art research arti
 
 The 2025 lecture series website can be found here: https://pad.gwdg.de/s/7UZn6dGjq
 
+## Description
+
+Experiment.ipynb -- explore a mystery physical system on your own by running experiments and analysis (giving an impression of how a computer has to proceed in such a situation)
+
+
